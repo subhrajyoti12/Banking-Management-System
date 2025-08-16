@@ -16,3 +16,8 @@ It simulates account creation, deposits, withdrawals, fund transfers, transactio
 ---
 
 ## 📂 Project Structure
+src/
+├── Account.java
+├── Transaction.java
+├── Bank.java
+└── BankingApp.java
