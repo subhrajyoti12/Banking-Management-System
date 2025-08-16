@@ -1,0 +1,19 @@
+# Ignore IDE/project files
+.idea/
+.vscode/
+*.iml
+*.classpath
+*.project
+
+# Ignore build/output folders
+/out/
+bin/
+target/
+
+# Ignore system files
+*.log
+*.DS_Store
+Thumbs.db
+
+# Ignore VS Code extensions
+.vscode/extensions/
